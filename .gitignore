@@ -1,0 +1,4 @@
+raw_data/
+.venv/
+.idea/
+__pycache__/
