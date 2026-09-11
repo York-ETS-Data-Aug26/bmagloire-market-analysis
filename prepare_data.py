@@ -137,27 +137,18 @@ print(daily_prices.head(25))
 # 5. BUILD TICKERS DATAFRAME
 # ============================================================
 
-# We'll do this later
 
 
 # ============================================================
 # 6. BUILD DERIVED DATAFRAMES
 # ============================================================
 
-# Monthly dollar volume
-
-# Extreme days
-
-# Current penny stocks
 
 
 # ============================================================
 # 7. SAVE PREPARED DATA TO PARQUET
 # ============================================================
 
-# daily_prices.to_parquet(...)
-# tickers.to_parquet(...)
-# etc.
 
 
 
