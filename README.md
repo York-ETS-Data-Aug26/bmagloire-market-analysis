@@ -1,5 +1,5 @@
 
-NASDAQ Market Analysis Assessment
+NASDAQ Market Analysis Report
 
 ##Overview
 The goal of this project was to take raw NASDAQ stock and etf data, clean it up, organize it into usable dataframes and run analysis on those dataframes to come
